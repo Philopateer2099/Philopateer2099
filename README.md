@@ -16,12 +16,16 @@ Before that I interned at KBR on NASA wildfire-response research, building a Sca
 
 ## Hackathons (team projects)
 
+Six results since 2023, five of them in healthcare.
+
 | Project | Result | Built with |
 |---|---|---|
-| [Blue Bill](https://github.com/Philopateer2099/blue-bill): spots hospital-bill overcharges from a photo | 1st place, HackMT 2024 | Next.js, Azure Document Intelligence, OpenAI |
-| [Blue Buddy](https://github.com/Philopateer2099/blue-buddy): AI check-in calls for patients | Hacker's Choice, HackMT 2025 | FastAPI, Twilio, GPT-4o, Next.js |
-| [Cliniq Care](https://github.com/Philopateer2099/cliniq-care): medication-label scanning and interaction checks | 2nd place, HackMT 2026 | Next.js, tRPC, Drizzle, Azure OpenAI, LangChain |
 | TOLK: AI reading coach | Top 6 finalist, HackTN 2026 | Oracle Cloud |
+| [Cliniq Care](https://github.com/Philopateer2099/cliniq-care): medication-label scanning and interaction checks | 2nd place, HackMT 2026 | Next.js, tRPC, Drizzle, Azure OpenAI, LangChain |
+| [Blue Buddy](https://github.com/Philopateer2099/blue-buddy): AI check-in calls for patients | Hacker's Choice, HackMT 2025 | FastAPI, Twilio, GPT-4o, Next.js |
+| [Blue Bill](https://github.com/Philopateer2099/blue-bill): spots hospital-bill overcharges from a photo | 1st place, HackMT 2024 | Next.js, Azure Document Intelligence, OpenAI |
+| MediQ: plain-English search over patient records and visit notes | 1st place, TNHIMSS 2023 | Python, RAG |
+| Early patient check-in caller | Sponsor award, VandyHacks 2023 | — |
 
 ## Links
 
